@@ -223,7 +223,7 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 
 | ROLE | DURATION | CERTIFICATION | CERTIFICATION | COMPANY |
 |---|---|---|---| ----|
-| AI INTERN | 2 MONTHS | CURRENTLY WORKING | [View](CERTIFICATE_URL) | WHITEATHENTS |
+| AI INTERN | 2 MONTHS | CURRENTLY WORKING | [View](CERTIFICATE_URL) | WHITEATHENS |
 
 ---
 
