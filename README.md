@@ -10,8 +10,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.com/api?type=waving&color=0:8E2DE2,50:FF85A1,100:00F0FF&height=230&section=header&text=Hi,%20I'm%20Prachi%20Bhadana&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems,%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="header banner" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=230&section=header&text=Hi%2C%20I%27m%20Prachi%20Bhadana&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="Prachi Bhadana header banner" />
+</p>
 <!-- ANIMATED TYPING INTRO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF85A1&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Applications;Exploring+LLMs+%26+Generative+AI;Python+%2F+FastAPI+Backend+Developer;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
@@ -26,8 +27,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prachi-bhadana&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/prachi-bhadana?color=FF85A1&style=for-the-badge&label=FOLLOWERS&labelColor=black)
 
 </div>
 
@@ -182,16 +181,21 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical&border_color=8E2DE2&title_color=FF85A1&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-bhadana&layout=compact&theme=radical&border_color=8E2DE2&title_color=FF85A1&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical" alt="Prachi's GitHub stats" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-bhadana&layout=compact&theme=radical" alt="Prachi's top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prachi-bhadana&theme=radical&border=8E2DE2&ring=FF85A1&fire=00F0FF&currStreakLabel=FF85A1" alt="GitHub streak stats" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prachi-bhadana&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com?user=prachi-bhadana&theme=radical" alt="Prachi's GitHub streak stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prachi-bhadana&theme=radical&no-frame=true&row=1" alt="Prachi's GitHub trophies" />
 </div>
 
 ### 📈 Contribution Activity
@@ -213,13 +217,13 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 
 ---
 
-### 🏅 Achievements & Certifications
+### 🏅 EXPERIENCE
 
 <!-- EDIT: replace placeholders below with your real certifications. Duplicate the block for more. -->
 
-| Certification | Issuer | Date | Credential |
+| ROLE | DURATION | CERTIFICATION | COMPANY |
 |---|---|---|---|
-| *CERTIFICATION_NAME* | *ISSUING_ORGANIZATION* | *DATE* | [View](CERTIFICATE_URL) |
+| AI INTERN | 2 MONTHS | CURRENTLY WORKING | [View](CERTIFICATE_URL) |
 
 ---
 
