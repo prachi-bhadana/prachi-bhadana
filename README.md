@@ -182,7 +182,7 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 ### 📊 GitHub Stats
 
 <div align="center">
-   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Prachi's GitHub stats" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=2" alt="Prachi's GitHub stats" />
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-bhadana&layout=compact&theme=radical" alt="Prachi's top languages" />
 </div>
@@ -201,7 +201,7 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-bhadana&theme=react-dark&color=00F0FF&line=FF85A1&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-bhadana&theme=react-dark&color=00F0FF&line=FF85A1&point=ffffff&area=true&hide_border=true&v=2" alt="Contribution activity graph" />
 </div>
 
 ### 🐍 Contribution Snake
