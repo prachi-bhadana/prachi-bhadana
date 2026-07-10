@@ -9,13 +9,14 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=230&section=header&text=Hi%2C%20I%27m%20Prachi%20Bhadana&fontSize=43&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="Prachi Bhadana header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=130&section=header&animation=twinkling" width="100%" alt="Colorful waving header" />
 </p>
 
+<p align="center">
   <a href="https://github.com/prachi-bhadana">
-    
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF85A1&fontSize=54&height=90&width=890&text=Hello!%20I'm%20PRACHI%20BHADANA" alt="Hello! I'm PRACHI BHADANA" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=655&height=44&lines=Building%20with%20AI%2C%20APIs%2C%20Backend%20%26%20Cloud;Turning%20ideas%20into%20intelligent%20automation" alt="Typing headlines" />
 </p>
