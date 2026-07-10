@@ -34,11 +34,9 @@
 
 ### 💫 About Me
 
-I'm Prachi — a developer who gets genuinely excited about the point where **AI meets real backend engineering**. I like taking an idea that sounds like "wouldn't it be cool if a computer could just *understand* this document/image/contact" and actually shipping it as a working application.
+AI & Backend Developer focused on engineering scalable AI-powered applications using Python, FastAPI, REST APIs, SQL, and LLM integrations. Hands-on experience across AI automation, cloud deployment, Docker, AWS, and backend architecture, with a growing focus on production-grade LLM systems and intelligent workflow automation.
 
-Right now that means building things like **VisionX AI** (AI-driven image analysis) and **ContactIQ-AI** (OCR + LLM-based contact intelligence) — projects where I get to combine Python, FastAPI, databases, and AI models into something people can actually use, not just a notebook experiment.
-
-I care about the *whole stack* behind an AI feature: the model call is the easy part — the interesting part is the API design, the database schema, the deployment, and making sure it doesn't fall over in production. That's why I've also spent time in cloud/VPS deployment (AWS, Docker, Hostinger, Contabo) and even email/marketing infrastructure (Mautic, Postal, SPF/DKIM/DMARC) — I like understanding systems end-to-end.
+AI Backend Developer | Python • FastAPI • LLMs • AWS • Docker • SQL
 
 I'm currently **open to work** — roles where I can keep building AI-powered backend systems, automate real workflows, and keep learning in public.
 
