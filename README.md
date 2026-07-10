@@ -165,7 +165,7 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 
 | Project | Description | Tech | Repo | Demo |
 |---|---|---|---|---|
-| *Your next project* | *One-line description* | *Tech used* | *repo link* | *demo link (if any)* |
+| AgentSphere AI | An intelligent multi-agent AI system where autonomous agents collaborate, communicate, use tools, and maintain memory to solve complex tasks. | Python, LangGraph, CrewAI, AutoGen, LLM APIs, Vector Databases, Tool Calling, Memory Systems |  |  |
 
 ---
 
