@@ -7,40 +7,61 @@
   ============================================================
 -->
 
-<div align="center">
-
 <!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=230&section=header&text=Hi%2C%20I%27m%20Prachi%20Bhadana&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="Prachi Bhadana header banner" />
 </p>
-<!-- ANIMATED TYPING INTRO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF85A1&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Applications;Exploring+LLMs+%26+Generative+AI;Python+%2F+FastAPI+Backend+Developer;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
-</a>
+p align="center">
+  <a href="https://github.com/prachi-bhadana">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20PRACHI%20BHADANA" alt="Hello! I&#39;m PRACHI BHADANA" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=655&height=44&lines=Building%20with%20AI%2C%20APIs%2C%20Backend%20%26%20Cloud;Turning%20ideas%20into%20intelligent%20automation" alt="Typing headlines" />
+</p>
 
-<!-- SOCIAL + STATUS BADGES -->
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-8E2DE2?style=for-the-badge&logo=briefcase&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prachi-bhadana-24b54332b)
-[![Email](https://img.shields.io/badge/Email-FF85A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadanaprachi5@gmail.com)
+### 🚀 About Me
 
-<br/>
+AI &amp; Backend Developer passionate about building intelligent automation, scalable APIs, and cloud-powered solutions. I love turning ideas into practical systems using AI, Python, FastAPI, and AWS.
 
+🔭 &nbsp;I'm currently working on **AI-powered automation and intelligent backend systems**  
+🌱 &nbsp;I'm currently learning **Machine Learning, LLMs &amp; advanced backend development**  
+😄 &nbsp;Pronouns: **she / her**
 
-</div>
+### 🛠️ Tech Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-### 💫 About Me
+### 🔗 Connect With Me
 
-AI & Backend Developer focused on engineering scalable AI-powered applications using Python, FastAPI, REST APIs, SQL, and LLM integrations. Hands-on experience across AI automation, cloud deployment, Docker, AWS, and backend architecture, with a growing focus on production-grade LLM systems and intelligent workflow automation.
+<p align="left">
+  <a href="https://www.linkedin.com/in/prachi-bhadana-24b54332b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhadanaprachi5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-AI Backend Developer | Python • FastAPI • LLMs • AWS • Docker • SQL
-
-I'm currently **open to work** — roles where I can keep building AI-powered backend systems, automate real workflows, and keep learning in public.
-
----
 
 ### 🔭 Currently Exploring
 
