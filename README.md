@@ -180,25 +180,13 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
  
 ### 📊 GitHub Stats
 
-<div align="center">
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"
-       alt="Prachi's GitHub stats" />
-
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-bhadana&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"
-       alt="Prachi's top languages" />
-
-</div>
-
-<br>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=prachi-bhadana&theme=radical&hide_border=false"
+  <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prachi-bhadana&theme=radical&hide_border=false"
        alt="Prachi's GitHub streak stats" />
-
 </div>
 
 ### 📈 Contribution Activity
