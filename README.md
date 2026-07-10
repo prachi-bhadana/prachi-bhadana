@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/prachi-bhadana">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF85A1&fontSize=54&height=90&width=890&text=Hello!%20I'm%20PRACHI%20BHADANA" alt="Hello! I'm PRACHI BHADANA" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF85A1&fontSize=54&height=90&width=890&fontAlignY=40&text=Hello!%20I'm%20PRACHI%20BHADANA" alt="Hello! I'm PRACHI BHADANA" />
   </a>
 </p>
 <p align="center">
