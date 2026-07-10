@@ -177,11 +177,12 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 - ☁️ More confidence deploying and automating on cloud/VPS infrastructure
 
 ---
+ 
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical" alt="Prachi's GitHub stats" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi-bhadana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Prachi's GitHub stats" />
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-bhadana&layout=compact&theme=radical" alt="Prachi's top languages" />
 </div>
@@ -191,7 +192,6 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prachi-bhadana&theme=radical" alt="Prachi's GitHub streak stats" />
 </div>
-
 <br>
 
 <div align="center">
