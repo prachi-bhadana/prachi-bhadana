@@ -221,9 +221,9 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 
 <!-- EDIT: replace placeholders below with your real certifications. Duplicate the block for more. -->
 
-| ROLE | DURATION | CERTIFICATION | COMPANY |
-|---|---|---|---|
-| AI INTERN | 2 MONTHS | CURRENTLY WORKING | [View](CERTIFICATE_URL) |
+| ROLE | DURATION | CERTIFICATION | CERTIFICATION | COMPANY |
+|---|---|---|---| ----|
+| AI INTERN | 2 MONTHS | CURRENTLY WORKING | [View](CERTIFICATE_URL) | WHITEATHENTS |
 
 ---
 
@@ -248,4 +248,4 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 
 </div>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:00F0FF,50:FF85A1,100:8E2DE2&height=120&section=footer" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00F0FF%2C50%3AFF85A1%2C100%3A8E2DE2&height=120&section=footer" width="100%" alt="footer banner" />
