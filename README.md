@@ -9,12 +9,11 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=230&section=header&text=Hi%2C%20I%27m%20Prachi%20Bhadana&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="Prachi Bhadana header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A8E2DE2%2C50%3AFF85A1%2C100%3A00F0FF&height=230&section=header&text=Hi%2C%20I%27m%20Prachi%20Bhadana&fontSize=43&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20intelligent%20systems%2C%20one%20idea%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="Prachi Bhadana header banner" />
 </p>
-p align="center">
+
   <a href="https://github.com/prachi-bhadana">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20PRACHI%20BHADANA" alt="Hello! I&#39;m PRACHI BHADANA" />
-  </a>
+    
 </p>
 
 <p align="center">
@@ -174,16 +173,6 @@ An AI-powered contact intelligence system using OCR and LLM-based extraction to 
 </td>
 </tr>
 </table>
-
----
-
-### 📂 Other Projects
-
-<!-- EDIT: add more rows as you build/publish more projects -->
-
-| Project | Description | Tech | Repo | Demo |
-|---|---|---|---|---|
-| AgentSphere AI | An intelligent multi-agent AI system where autonomous agents collaborate, communicate, use tools, and maintain memory to solve complex tasks. | Python, LangGraph, CrewAI, AutoGen, LLM APIs, Vector Databases, Tool Calling, Memory Systems |  |  |
 
 ---
 
