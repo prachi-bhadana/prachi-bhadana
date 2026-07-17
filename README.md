@@ -1,5 +1,5 @@
 <!--
-  ============================================================
+  =========================================================
   PRACHI BHADANA — GITHUB PROFILE README
   Place this file in a PUBLIC repo named exactly: prachi-bhadana/prachi-bhadana
   Theme: Futuristic AI — Purple / Electric Blue / Cyan / Pink accents (dark-friendly)
