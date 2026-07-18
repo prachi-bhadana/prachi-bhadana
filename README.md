@@ -4,7 +4,7 @@
   Place this file in a PUBLIC repo named exactly: prachi-bhadana/prachi-bhadana
   Theme: Futuristic AI — Purple / Electric Blue / Cyan / Pink accents (dark-friendly)
   Search "EDIT:" in comments to find every place you can customize further.
-  =========================================================
+  ========================================================
 -->
 
 <!-- HERO BANNER -->
